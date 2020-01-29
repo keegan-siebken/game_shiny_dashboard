@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580298996138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "438D3697",
+    "lastKnownWriteTime" : 1574686618,
+    "last_content_update" : 1574686618,
+    "path" : "~/codeclan_work/homework/week_05/day_5/game_shiny/game_shiny/server.R",
+    "project_path" : "game_shiny/server.R",
+    "properties" : {
+        "cursorPosition" : "12,27",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

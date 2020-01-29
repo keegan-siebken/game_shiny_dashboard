@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580298997105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5FF7263",
+    "lastKnownWriteTime" : 1574686541,
+    "last_content_update" : 1574686541,
+    "path" : "~/codeclan_work/homework/week_05/day_5/game_shiny/game_shiny/ui.R",
+    "project_path" : "game_shiny/ui.R",
+    "properties" : {
+        "cursorPosition" : "11,42",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
